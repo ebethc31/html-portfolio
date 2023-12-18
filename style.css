@@ -3,5 +3,5 @@
 }
 
 body{
-    background-image: url(./assests/purpleWaves.jpeg);
+    background-image: url('./assests/purpleWaves.jpeg');
 }

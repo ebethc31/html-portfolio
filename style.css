@@ -1,3 +1,7 @@
 *{
     font-family: Garamond, serif;
 }
+
+body{
+    background-image: url(./assests/purpleWaves.jpeg);
+}

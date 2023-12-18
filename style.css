@@ -3,5 +3,8 @@
 }
 
 body{
-    background-image: url('./assests/purpleWaves.jpeg');
+    background-image: url('./assests/purpleWaves.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
 }
